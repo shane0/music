@@ -1,5 +1,10 @@
 # about
 
+- I am setting this up on 2024-01-06
+- previously this was just a page on shanenull.com
+- I want a site just for music so I can keep better notes & leave comments
+- sometimes I use a lot of different hardware and software
+- when the interfaces are not designed well you have to dig around to use features
 - deployed using this [workflow template](https://github.com/shane0/workflow)
 
 !!! info
